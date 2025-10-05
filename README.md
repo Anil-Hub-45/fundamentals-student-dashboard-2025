@@ -1,2 +1,2 @@
 # fundamentals-student-dashboard-2025
-DataAnalysis Project-SDLC
+Data Analysis Project-SDLC
